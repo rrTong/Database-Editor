@@ -46,7 +46,7 @@ For example, a JSON object such as this:
    },
       "filter": [
          {"field":"last_name", "operator":"CONTAINS", "value":"Van"}
-  	  ]
+      ]
 }
 ```
 
