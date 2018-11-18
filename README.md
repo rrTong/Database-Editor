@@ -44,9 +44,9 @@ For example, a JSON object such as this:
    "sort" : {
       "id": "asc"
    },
-      "filter": [
-         {"field":"last_name", "operator":"CONTAINS", "value":"Van"}
-      ]
+   "filter": [
+      {"field":"last_name", "operator":"CONTAINS", "value":"Van"}
+   ]
 }
 ```
 
